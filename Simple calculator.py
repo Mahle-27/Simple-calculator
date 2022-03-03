@@ -3,11 +3,11 @@
 
 # In[6]:
 
-
+# Function to subtract two numbers
 def subtract(x, y):
     return x - y
   
-# Function to subtract two numbers 
+# Function to add two numbers 
 def add(x, y):
     return  x + y
   
